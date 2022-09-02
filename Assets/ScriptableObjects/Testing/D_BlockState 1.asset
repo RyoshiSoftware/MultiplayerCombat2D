@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c591d75a376dfb4ca10abb718fb8e2d, type: 3}
+  m_Name: D_BlockState 1
+  m_EditorClassIdentifier: 
+  key: 256
+  damageReducion: 0
+  knockbackStrengthReducion: 500
+  blockEplosionVFX: {fileID: 11400000, guid: d0cf8a9c460381549baa3d6f0afc00f7, type: 2}
+  kiBlastVFX: {fileID: 11400000, guid: d2247c729318ec0488a76a5b55747695, type: 2}

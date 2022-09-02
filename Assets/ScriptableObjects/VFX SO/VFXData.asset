@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 007728bc8c78bc4479fc3c81c022c9bc, type: 3}
+  m_Name: VFXData
+  m_EditorClassIdentifier: 
+  doubleShockWaveVFX: {fileID: 11400000, guid: 27d80b79d6606794a9fe3a3ca5114e46, type: 2}
+  blockEplosionVFX: {fileID: 11400000, guid: d0cf8a9c460381549baa3d6f0afc00f7, type: 2}
+  blockKiBlastVFX: {fileID: 11400000, guid: 0dba9b0678f0d124aaf213a8150d4346, type: 2}
+  dashVFX: {fileID: 11400000, guid: 8bc858a25d1afc34d9c4bf87c7cac491, type: 2}
+  dashWindVFX: {fileID: 11400000, guid: b4af53a0cdccc4a4787f20e877639513, type: 2}
+  hitVFX: {fileID: 11400000, guid: 7b85a246f6760c446aa35c35e3894924, type: 2}
+  knockbackWindVFX: {fileID: 11400000, guid: 960c1dfb562e8e9468c1dd28096858ad, type: 2}
+  mediumKnockbackVFX: {fileID: 11400000, guid: 21afadd3211ee0340b09d79d87c18f50, type: 2}
+  strongKnockbackVFX: {fileID: 11400000, guid: 0fdbe0de0122d7a48863eb6582d1736a, type: 2}
+  punchVFX: {fileID: 11400000, guid: 7ec59ff17426b75489a4f0bfcfe1bd1e, type: 2}
+  kickVFX: {fileID: 11400000, guid: c4c804085b1a8b44bb09d35721ab45b0, type: 2}
+  kiBlastVFX: {fileID: 11400000, guid: d2247c729318ec0488a76a5b55747695, type: 2}
+  explosionVFX: {fileID: 11400000, guid: 622f3428f9662d2479bdd1142df2dc89, type: 2}
+  doubleBigExplosionVFX: {fileID: 11400000, guid: 4377960e50b4da442aaefaaaec64103d, type: 2}
+  holeVFX: {fileID: 11400000, guid: 8a0d3c75922d1794ba27287396727ef9, type: 2}
+  airDoubleVFX: {fileID: 11400000, guid: ab4e6779c2adab843b01fd710e5784cd, type: 2}

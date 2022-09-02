@@ -1,0 +1,6998 @@
+fileFormatVersion: 2
+guid: f742c230516f9974499e64c77daf5995
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3189987784615315146
+    second: Martial art base000
+  - first:
+      213: 4650341704453339678
+    second: Martial art base001
+  - first:
+      213: 9168310541246245068
+    second: Martial art base002
+  - first:
+      213: -1461766982437957159
+    second: Martial art base003
+  - first:
+      213: 6761494652670392675
+    second: Martial art base004
+  - first:
+      213: -2837593156927919778
+    second: Martial art base005
+  - first:
+      213: -1054396051097862311
+    second: Martial art base006
+  - first:
+      213: -2132234688468547668
+    second: Martial art base007
+  - first:
+      213: 1724162569875125867
+    second: Martial art base008
+  - first:
+      213: 7618758819212253292
+    second: Martial art base009
+  - first:
+      213: -2504204515347251530
+    second: Martial art base010
+  - first:
+      213: 1218002663191505786
+    second: Martial art base011
+  - first:
+      213: 6662882086733765194
+    second: Martial art base012
+  - first:
+      213: 3035352698928749828
+    second: Martial art base013
+  - first:
+      213: -4564720585774109759
+    second: Martial art base014
+  - first:
+      213: 3552166747414039416
+    second: Martial art base015
+  - first:
+      213: -7987007966851228426
+    second: Martial art base016
+  - first:
+      213: -7545158508010006772
+    second: Martial art base017
+  - first:
+      213: -7828225133467494885
+    second: Martial art base018
+  - first:
+      213: -425095019261749592
+    second: Martial art base019
+  - first:
+      213: -8843870814260975028
+    second: Martial art base020
+  - first:
+      213: 2982899262026125048
+    second: Martial art base021
+  - first:
+      213: -7148343306716205034
+    second: Martial art base022
+  - first:
+      213: -1700938830153385584
+    second: Martial art base023
+  - first:
+      213: -6495402053340962836
+    second: Martial art base024
+  - first:
+      213: 8343175741113005604
+    second: Martial art base025
+  - first:
+      213: -297237304599018997
+    second: Martial art base026
+  - first:
+      213: 5241789801322419596
+    second: Martial art base027
+  - first:
+      213: 5732207760480401267
+    second: Martial art base028
+  - first:
+      213: 8023788305612543197
+    second: Martial art base029
+  - first:
+      213: -6965593774719734892
+    second: Martial art base030
+  - first:
+      213: 752650480560314944
+    second: Martial art base031
+  - first:
+      213: 1184900831424909466
+    second: Martial art base032
+  - first:
+      213: 3245091957203965498
+    second: Martial art base033
+  - first:
+      213: -7309347436338401719
+    second: Martial art base034
+  - first:
+      213: 4918866178713963450
+    second: Martial art base035
+  - first:
+      213: 9147676299475821400
+    second: Martial art base036
+  - first:
+      213: 6218727496256848013
+    second: Martial art base037
+  - first:
+      213: -4981741599663626080
+    second: Martial art base038
+  - first:
+      213: -1760195521312966331
+    second: Martial art base039
+  - first:
+      213: 8472627658817235136
+    second: Martial art base040
+  - first:
+      213: 1331141116166579839
+    second: Martial art base041
+  - first:
+      213: 2391096441939641048
+    second: Martial art base042
+  - first:
+      213: 6207521338619307773
+    second: Martial art base043
+  - first:
+      213: 8305389879728727638
+    second: Martial art base044
+  - first:
+      213: -7875028678989846957
+    second: Martial art base045
+  - first:
+      213: -5672004284273208000
+    second: Martial art base046
+  - first:
+      213: -5756668218186819357
+    second: Martial art base047
+  - first:
+      213: 130137098952145803
+    second: Martial art base048
+  - first:
+      213: -525514779107539407
+    second: Martial art base049
+  - first:
+      213: 2099357686768778739
+    second: Martial art base050
+  - first:
+      213: -2264006664879858187
+    second: Martial art base051
+  - first:
+      213: -2555176273881435181
+    second: Martial art base052
+  - first:
+      213: 8948284636623402784
+    second: Martial art base053
+  - first:
+      213: 462716200181659755
+    second: Martial art base054
+  - first:
+      213: -6439323817134453563
+    second: Martial art base055
+  - first:
+      213: -8409313530209142593
+    second: Martial art base056
+  - first:
+      213: -443177144537137227
+    second: Martial art base057
+  - first:
+      213: -1420829559850479056
+    second: Martial art base058
+  - first:
+      213: -3335925675239626589
+    second: Martial art base059
+  - first:
+      213: 2078513036020373100
+    second: Martial art base060
+  - first:
+      213: 2032078094290520848
+    second: Martial art base061
+  - first:
+      213: 6677654595635321331
+    second: Martial art base062
+  - first:
+      213: -7396392842800516375
+    second: Martial art base063
+  - first:
+      213: -2741284626953628117
+    second: Martial art base064
+  - first:
+      213: -5292691331315782604
+    second: Martial art base065
+  - first:
+      213: 8604833231696899439
+    second: Martial art base066
+  - first:
+      213: 2376769099851605877
+    second: Martial art base067
+  - first:
+      213: 614502848763665966
+    second: Martial art base068
+  - first:
+      213: 1819277125766054786
+    second: Martial art base069
+  - first:
+      213: 6936795164062947119
+    second: Martial art base070
+  - first:
+      213: -4462898148291338448
+    second: Martial art base071
+  - first:
+      213: -5631282203741559144
+    second: Martial art base072
+  - first:
+      213: 6203605975746084721
+    second: Martial art base073
+  - first:
+      213: 3504043407551037603
+    second: Martial art base074
+  - first:
+      213: 603198174409967779
+    second: Martial art base075
+  - first:
+      213: 9095802532673058340
+    second: Martial art base076
+  - first:
+      213: 7552863901246097173
+    second: Martial art base077
+  - first:
+      213: 1183001014200939149
+    second: Martial art base078
+  - first:
+      213: -3936154978616944242
+    second: Martial art base079
+  - first:
+      213: 794353901625615676
+    second: Martial art base080
+  - first:
+      213: -8244701128544529316
+    second: Martial art base081
+  - first:
+      213: -8988937595192345791
+    second: Martial art base082
+  - first:
+      213: 4454294541746633308
+    second: Martial art base083
+  - first:
+      213: -6882403061106946167
+    second: Martial art base084
+  - first:
+      213: -8983433735007219174
+    second: Martial art base085
+  - first:
+      213: 943606382548773518
+    second: Martial art base086
+  - first:
+      213: 1281827000049223441
+    second: Martial art base087
+  - first:
+      213: 5845149473616738619
+    second: Martial art base088
+  - first:
+      213: 5506798178226588476
+    second: Martial art base089
+  - first:
+      213: 8145575844787902597
+    second: Martial art base090
+  - first:
+      213: 9033662813805729277
+    second: Martial art base091
+  - first:
+      213: 6115025392631635224
+    second: Martial art base092
+  - first:
+      213: -5655741024331695042
+    second: Martial art base093
+  - first:
+      213: -1823629229378569729
+    second: Martial art base094
+  - first:
+      213: -7860307899253848173
+    second: Martial art base095
+  - first:
+      213: -3118458578851442034
+    second: Martial art base096
+  - first:
+      213: 5819744317585517057
+    second: Martial art base097
+  - first:
+      213: 1790470044389903310
+    second: Martial art base098
+  - first:
+      213: -5820586898482313776
+    second: Martial art base099
+  - first:
+      213: -5569458303836577086
+    second: Martial art base100
+  - first:
+      213: -5365345002563625101
+    second: Martial art base101
+  - first:
+      213: -3878921928427910800
+    second: Martial art base102
+  - first:
+      213: -6296128916611693538
+    second: Martial art base103
+  - first:
+      213: -8135694292515695402
+    second: Martial art base104
+  - first:
+      213: -4463611316053914578
+    second: Martial art base105
+  - first:
+      213: 5147189407588283064
+    second: Martial art base106
+  - first:
+      213: 6993580564855699214
+    second: Martial art base107
+  - first:
+      213: -6833007340450889723
+    second: Martial art base108
+  - first:
+      213: 2278157811848535041
+    second: Martial art base109
+  - first:
+      213: -1013681792945970688
+    second: Martial art base110
+  - first:
+      213: 2724328976535884614
+    second: Martial art base111
+  - first:
+      213: -1976292711416435295
+    second: Martial art base112
+  - first:
+      213: 4679069409051507217
+    second: Martial art base113
+  - first:
+      213: -4762209118272693894
+    second: Martial art base114
+  - first:
+      213: 4552360166744705996
+    second: Martial art base115
+  - first:
+      213: 1699235205693354160
+    second: Martial art base116
+  - first:
+      213: 4869627299324910262
+    second: Martial art base117
+  - first:
+      213: 1451108916629962341
+    second: Martial art base118
+  - first:
+      213: 1754634835780622472
+    second: Martial art base119
+  - first:
+      213: 5169150083598436765
+    second: Martial art base120
+  - first:
+      213: -5477582109509972174
+    second: Martial art base121
+  - first:
+      213: -8632977072977867861
+    second: Martial art base122
+  - first:
+      213: 6704529251336351405
+    second: Martial art base123
+  - first:
+      213: 3551276975274806383
+    second: Martial art base124
+  - first:
+      213: -2883910327441211484
+    second: Martial art base125
+  - first:
+      213: 3235401657876479402
+    second: Martial art base126
+  - first:
+      213: -865273802922926147
+    second: Martial art base127
+  - first:
+      213: -5524924975615625322
+    second: Martial art base128
+  - first:
+      213: 8652108654615768088
+    second: Martial art base129
+  - first:
+      213: -8019166964572134702
+    second: Martial art base130
+  - first:
+      213: -714549001074771518
+    second: Martial art base131
+  - first:
+      213: 7361920944818008213
+    second: Martial art base132
+  - first:
+      213: -210968630155665045
+    second: Martial art base133
+  - first:
+      213: -7462114698874847916
+    second: Martial art base134
+  - first:
+      213: -127278511378713471
+    second: Martial art base135
+  - first:
+      213: -1079825131764370742
+    second: Martial art base136
+  - first:
+      213: -1593394243029728295
+    second: Martial art base137
+  - first:
+      213: 7967814322929025339
+    second: Martial art base138
+  - first:
+      213: -6676669220922463277
+    second: Martial art base139
+  - first:
+      213: 6331025457439165706
+    second: Martial art base140
+  - first:
+      213: -3158045528848419972
+    second: Martial art base141
+  - first:
+      213: -538123565376742170
+    second: Martial art base142
+  - first:
+      213: -4056732777655699040
+    second: Martial art base143
+  - first:
+      213: 5429340461652941688
+    second: Martial art base144
+  - first:
+      213: 7184271478233271057
+    second: Martial art base145
+  - first:
+      213: -8679534110156294359
+    second: Martial art base146
+  - first:
+      213: 5423916201141135265
+    second: Martial art base147
+  - first:
+      213: 9113861424033397338
+    second: Martial art base148
+  - first:
+      213: -5163353835910857692
+    second: Martial art base149
+  - first:
+      213: 8787944520669976544
+    second: Martial art base150
+  - first:
+      213: -6268034548186338734
+    second: Martial art base151
+  - first:
+      213: -6543139792886360851
+    second: Martial art base152
+  - first:
+      213: -7351876180749728101
+    second: Martial art base153
+  - first:
+      213: -2320728947169137660
+    second: Martial art base154
+  - first:
+      213: -2033304508404332599
+    second: Martial art base155
+  - first:
+      213: 3515816812155338001
+    second: Martial art base156
+  - first:
+      213: 5893900496370950203
+    second: Martial art base157
+  - first:
+      213: 3303972597470288333
+    second: Martial art base158
+  - first:
+      213: -1082607353526494406
+    second: Martial art base159
+  - first:
+      213: -8169191201926305592
+    second: Martial art base160
+  - first:
+      213: 4748717513035056583
+    second: Martial art base161
+  - first:
+      213: -4420836730072888878
+    second: Martial art base162
+  - first:
+      213: 5246570284350156047
+    second: Martial art base163
+  - first:
+      213: -7987855025238144065
+    second: Martial art base164
+  - first:
+      213: -8130282318607594375
+    second: Martial art base165
+  - first:
+      213: -7366012623633625651
+    second: Martial art base166
+  - first:
+      213: -2914586852827881088
+    second: Martial art base167
+  - first:
+      213: -4097565578056460101
+    second: Martial art base168
+  - first:
+      213: 1595364807685882328
+    second: Martial art base169
+  - first:
+      213: -7368831779611407172
+    second: Martial art base170
+  - first:
+      213: 3779231686588671289
+    second: Martial art base171
+  - first:
+      213: -1153584957173830681
+    second: Martial art base172
+  - first:
+      213: -7480799984840231770
+    second: Martial art base173
+  - first:
+      213: -7966809876231247615
+    second: Martial art base174
+  - first:
+      213: 30028115947055569
+    second: Martial art base175
+  - first:
+      213: 1281508772166786669
+    second: Martial art base176
+  - first:
+      213: 676878192365989358
+    second: Martial art base177
+  - first:
+      213: -3213260910707229814
+    second: Martial art base178
+  - first:
+      213: 741002866575187005
+    second: Martial art base179
+  - first:
+      213: 2389170433484119530
+    second: Martial art base180
+  - first:
+      213: -401590079963932460
+    second: Martial art base181
+  - first:
+      213: 8574507453818820778
+    second: Martial art base182
+  - first:
+      213: -958523125153198279
+    second: Martial art base183
+  - first:
+      213: -8520285369988864448
+    second: Martial art base184
+  - first:
+      213: 8647968174204742996
+    second: Martial art base185
+  - first:
+      213: 2146671490673959640
+    second: Martial art base186
+  - first:
+      213: 1287526339452761244
+    second: Martial art base187
+  - first:
+      213: -2968676307122319005
+    second: Martial art base188
+  - first:
+      213: -3880659423986727663
+    second: Martial art base189
+  - first:
+      213: 6428967569525212470
+    second: Martial art base190
+  - first:
+      213: 3155925434318277481
+    second: Martial art base191
+  - first:
+      213: 1353071770263224683
+    second: Martial art base192
+  - first:
+      213: -816788916902792354
+    second: Martial art base193
+  - first:
+      213: -8497425875742095591
+    second: Martial art base194
+  - first:
+      213: -8038822687092507150
+    second: Martial art base195
+  - first:
+      213: 5282532511183228590
+    second: Martial art base196
+  - first:
+      213: 8723171824861791020
+    second: Martial art base197
+  - first:
+      213: -844154665143663923
+    second: Martial art base198
+  - first:
+      213: -8167617461935955229
+    second: Martial art base199
+  - first:
+      213: -3670126738607781910
+    second: Martial art base200
+  - first:
+      213: 3832934232094620879
+    second: Martial art base201
+  - first:
+      213: -8862178221770996668
+    second: Martial art base202
+  - first:
+      213: -8930697254699334643
+    second: Martial art base203
+  - first:
+      213: -8486545730652301740
+    second: Martial art base204
+  - first:
+      213: 9144145572985298026
+    second: Martial art base205
+  - first:
+      213: 2275955136197929943
+    second: Martial art base206
+  - first:
+      213: 4014578591773896702
+    second: Martial art base207
+  - first:
+      213: -4390508096417741167
+    second: Martial art base208
+  - first:
+      213: 5077731621341950373
+    second: Martial art base209
+  - first:
+      213: -5414050347664252481
+    second: Martial art base210
+  - first:
+      213: -9128056232850402184
+    second: Martial art base211
+  - first:
+      213: -9181302992637272757
+    second: Martial art base212
+  - first:
+      213: 3882487113887838108
+    second: Martial art base213
+  - first:
+      213: 6373258197522201037
+    second: Martial art base214
+  - first:
+      213: -310949779282528519
+    second: Martial art base215
+  - first:
+      213: 9145653088354328583
+    second: Martial art base216
+  - first:
+      213: -2249213911794737422
+    second: Martial art base217
+  - first:
+      213: 5784238109218230240
+    second: Martial art base218
+  - first:
+      213: 6634134821570909235
+    second: Martial art base219
+  - first:
+      213: -7805232369881758276
+    second: Martial art base220
+  - first:
+      213: -5326968555421470785
+    second: Martial art base221
+  - first:
+      213: -19279187705939103
+    second: Martial art base222
+  - first:
+      213: -51114318755369517
+    second: Martial art base223
+  - first:
+      213: 5714085530718794617
+    second: Martial art base224
+  - first:
+      213: 1711663558873102797
+    second: Martial art base225
+  - first:
+      213: -2864535279229321693
+    second: Martial art base226
+  - first:
+      213: -8898223051401602969
+    second: Martial art base227
+  - first:
+      213: -6448701358961612718
+    second: Martial art base228
+  - first:
+      213: 7948618440034348
+    second: Martial art base229
+  - first:
+      213: -8108092967310241036
+    second: Martial art base230
+  - first:
+      213: 5721291234310638439
+    second: Martial art base231
+  - first:
+      213: -7134361881054217995
+    second: Martial art base232
+  - first:
+      213: 5990625269865510287
+    second: Martial art base233
+  - first:
+      213: -8833388467299593713
+    second: Martial art base234
+  - first:
+      213: 1535742144791394674
+    second: Martial art base235
+  - first:
+      213: 7491553138667726849
+    second: Martial art base236
+  - first:
+      213: -5857269248155166114
+    second: Martial art base237
+  - first:
+      213: -9153837850198972918
+    second: Martial art base238
+  - first:
+      213: 9056079807503084209
+    second: Martial art base239
+  - first:
+      213: -7777182444330893271
+    second: Martial art base240
+  - first:
+      213: 7578434387119777440
+    second: Martial art base241
+  - first:
+      213: -941300121188168204
+    second: Martial art base242
+  - first:
+      213: 7567250209030481905
+    second: Martial art base243
+  - first:
+      213: -8673813421477137586
+    second: Martial art base244
+  - first:
+      213: -8719355726680194787
+    second: Martial art base245
+  - first:
+      213: -1228308749737661262
+    second: Martial art base246
+  - first:
+      213: -1861080057669249032
+    second: Martial art base247
+  - first:
+      213: -8112430150462095223
+    second: Martial art base248
+  - first:
+      213: 6790802509059177805
+    second: Martial art base249
+  - first:
+      213: -5490491057364948719
+    second: Martial art base250
+  - first:
+      213: -103615446430088632
+    second: Martial art base251
+  - first:
+      213: -2332985545053825933
+    second: Martial art base252
+  - first:
+      213: -909994864903454151
+    second: Martial art base253
+  - first:
+      213: -7181345436173405387
+    second: Martial art base254
+  - first:
+      213: -437801157950093636
+    second: Martial art base255
+  - first:
+      213: 2045663628710438635
+    second: Martial art base256
+  - first:
+      213: 8635201464415872891
+    second: Martial art base257
+  - first:
+      213: -2551196155397515391
+    second: Martial art base258
+  - first:
+      213: -8965188809813319116
+    second: Martial art base259
+  - first:
+      213: 2988583390418912520
+    second: Martial art base260
+  - first:
+      213: 3215343449777930381
+    second: Martial art base261
+  - first:
+      213: -5437699276149178972
+    second: Martial art base262
+  - first:
+      213: 2286154806817445682
+    second: Martial art base263
+  - first:
+      213: -1670941502019898936
+    second: Martial art base264
+  - first:
+      213: 7253631678853355984
+    second: Martial art base265
+  - first:
+      213: -4745812031754340171
+    second: Martial art base266
+  - first:
+      213: -2279700732328443962
+    second: Martial art base267
+  - first:
+      213: 6388820535761073266
+    second: Martial art base268
+  - first:
+      213: 2527155338589095867
+    second: Martial art base269
+  - first:
+      213: 8763327273688119641
+    second: Martial art base270
+  - first:
+      213: -2748970731583853167
+    second: Martial art base271
+  - first:
+      213: 8150535011216016043
+    second: Martial art base272
+  - first:
+      213: -8711769187776429291
+    second: Martial art base273
+  - first:
+      213: -2891202780219663565
+    second: Martial art base274
+  - first:
+      213: -6785583935336473036
+    second: Martial art base275
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Martial art base000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1025
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6c4d32dfc154c20800000000000000
+      internalID: 3189987784615315146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base001
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1025
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a30224425598040800000000000000
+      internalID: 4650341704453339678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base002
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1025
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8a3798cd16c3f70800000000000000
+      internalID: 9168310541246245068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base003
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1025
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1146b9ca2c6bbe0800000000000000
+      internalID: -1461766982437957159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base004
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1025
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3693f1b0097a5dd50800000000000000
+      internalID: 6761494652670392675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base005
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1025
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e596b38de08de98d0800000000000000
+      internalID: -2837593156927919778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base006
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1025
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fbcb1c0680e51f0800000000000000
+      internalID: -1054396051097862311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base007
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1025
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7011019d7c862e0800000000000000
+      internalID: -2132234688468547668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base008
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1025
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b667e68e8b47de710800000000000000
+      internalID: 1724162569875125867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base009
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1025
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c685588b7c44bb960800000000000000
+      internalID: 7618758819212253292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base010
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1025
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be3cc9d2474f3dd0800000000000000
+      internalID: -2504204515347251530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base011
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1025
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b620b08f637e010800000000000000
+      internalID: 1218002663191505786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base012
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1025
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a5418d4ff477c50800000000000000
+      internalID: 6662882086733765194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base013
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1025
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ddbab923dbf1a20800000000000000
+      internalID: 3035352698928749828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base014
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1025
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb650aefcad6a0c0800000000000000
+      internalID: -4564720585774109759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base015
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1025
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b819a26d4db4130800000000000000
+      internalID: 3552166747414039416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base016
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1025
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc1e953292782190800000000000000
+      internalID: -7987007966851228426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 961
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c071c0c10563a4790800000000000000
+      internalID: -7545158508010006772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base018
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 961
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1692e187be8c5390800000000000000
+      internalID: -7828225133467494885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base019
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 961
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a69d1d0552c91af0800000000000000
+      internalID: -425095019261749592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base020
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 961
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aa78ce952444580800000000000000
+      internalID: -8843870814260975028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base021
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 961
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe87d12313656920800000000000000
+      internalID: 2982899262026125048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base022
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 961
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610b3a6d2abfbcc90800000000000000
+      internalID: -7148343306716205034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base023
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 961
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099f90c552d0568e0800000000000000
+      internalID: -1700938830153385584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base024
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 961
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefd4412f32bbd5a0800000000000000
+      internalID: -6495402053340962836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base025
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 961
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42672bbe12ae8c370800000000000000
+      internalID: 8343175741113005604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base026
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 961
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02816d0f3000ebf0800000000000000
+      internalID: -297237304599018997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base027
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 961
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8596175d049eb840800000000000000
+      internalID: 5241789801322419596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base028
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 961
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377fb2e6694ec8f40800000000000000
+      internalID: 5732207760480401267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base029
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 961
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd418fcb3f83a5f60800000000000000
+      internalID: 8023788305612543197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base030
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 961
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b68200e5d355f90800000000000000
+      internalID: -6965593774719734892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base031
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 961
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a13d5df93f17a00800000000000000
+      internalID: 752650480560314944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base032
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 961
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90952f370d917010800000000000000
+      internalID: 1184900831424909466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base033
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 961
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a369e9c11f1e80d20800000000000000
+      internalID: 3245091957203965498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base034
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 897
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e2325bb3bff8a90800000000000000
+      internalID: -7309347436338401719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base035
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 897
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbcdef6ab2534440800000000000000
+      internalID: 4918866178713963450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base036
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 897
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853248eb02313fe70800000000000000
+      internalID: 9147676299475821400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base037
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 897
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d800859a5bb5d4650800000000000000
+      internalID: 6218727496256848013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base038
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 897
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a86345d86c4ddab0800000000000000
+      internalID: -4981741599663626080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base039
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 897
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54938e0df778297e0800000000000000
+      internalID: -1760195521312966331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base040
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 897
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c863fd37f1d49570800000000000000
+      internalID: 8472627658817235136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base041
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 897
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76a60fdac9297210800000000000000
+      internalID: 1331141116166579839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base042
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 897
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2438d9b81ee2120800000000000000
+      internalID: 2391096441939641048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base043
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 897
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6af04c4cb852650800000000000000
+      internalID: 6207521338619307773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base044
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 897
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656ea5e771ca24370800000000000000
+      internalID: 8305389879728727638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base045
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 897
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356ebc0e32746b290800000000000000
+      internalID: -7875028678989846957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base046
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 897
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045d66fa72ef841b0800000000000000
+      internalID: -5672004284273208000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base047
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 897
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8913571c43c10b0800000000000000
+      internalID: -5756668218186819357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base048
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 897
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b742380075ec100800000000000000
+      internalID: 130137098952145803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base049
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 897
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136c31bb71ff4b8f0800000000000000
+      internalID: -525514779107539407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base050
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 897
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdb65871ba622d10800000000000000
+      internalID: 2099357686768778739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base051
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd18bafee1a490e0800000000000000
+      internalID: -2264006664879858187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base052
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d37ac087b03a8cd0800000000000000
+      internalID: -2555176273881435181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base053
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027f50b8771be2c70800000000000000
+      internalID: 8948284636623402784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base054
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6875a7bee5eb6600800000000000000
+      internalID: 462716200181659755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base055
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc0df5fa1de2a6a0800000000000000
+      internalID: -6439323817134453563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base056
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb87ff216ed1c4b80800000000000000
+      internalID: -8409313530209142593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base057
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfba4f2cb489d9f0800000000000000
+      internalID: -443177144537137227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base058
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032dcbe0b03384ce0800000000000000
+      internalID: -1420829559850479056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base059
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8ac3ad54964b1d0800000000000000
+      internalID: -3335925675239626589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base060
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c665305089c58dc10800000000000000
+      internalID: 2078513036020373100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base061
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b0a06a244633c10800000000000000
+      internalID: 2032078094290520848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base062
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f91999997bcbac50800000000000000
+      internalID: 6677654595635321331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base063
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e232a1b5ebba5990800000000000000
+      internalID: -7396392842800516375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base064
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26903ed72005f9d0800000000000000
+      internalID: -2741284626953628117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base065
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c222ba6459c86b0800000000000000
+      internalID: -5292691331315782604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base066
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d25cedb328a6770800000000000000
+      internalID: 8604833231696899439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base067
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 833
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577a7c557eafbf020800000000000000
+      internalID: 2376769099851605877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base068
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e160ec517278800800000000000000
+      internalID: 614502848763665966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base069
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283874d28ee5f3910800000000000000
+      internalID: 1819277125766054786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base070
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f279e91f272744060800000000000000
+      internalID: 6936795164062947119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base071
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f985297c99012c0800000000000000
+      internalID: -4462898148291338448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base072
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8966108ebaaa9d1b0800000000000000
+      internalID: -5631282203741559144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base073
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ff5de44c2a71650800000000000000
+      internalID: 6203605975746084721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base074
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a001a8f9ecd0a030800000000000000
+      internalID: 3504043407551037603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base075
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8ced23b8dfe5800800000000000000
+      internalID: 603198174409967779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base076
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426731b3638ca3e70800000000000000
+      internalID: 9095802532673058340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base077
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51705ae83b921d860800000000000000
+      internalID: 7552863901246097173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base078
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82bf54972dda6010800000000000000
+      internalID: 1183001014200939149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base079
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89d6aec6e7ff59c0800000000000000
+      internalID: -3936154978616944242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base080
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3527543aac160b00800000000000000
+      internalID: 794353901625615676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base081
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5457d18100f49d80800000000000000
+      internalID: -8244701128544529316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base082
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bf762f1e0e04380800000000000000
+      internalID: -8988937595192345791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base083
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5af4cd2945d0dd30800000000000000
+      internalID: 4454294541746633308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base084
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 769
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fc8a561eacc70a0800000000000000
+      internalID: -6882403061106946167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base085
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1252a14d9e645380800000000000000
+      internalID: -8983433735007219174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base086
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a6c97610d581d00800000000000000
+      internalID: 943606382548773518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base087
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11740797dd6f9c110800000000000000
+      internalID: 1281827000049223441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base088
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39bcf13a742e1150800000000000000
+      internalID: 5845149473616738619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base089
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bc6fe44c31c6c40800000000000000
+      internalID: 5506798178226588476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base090
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588d59fd216ea0170800000000000000
+      internalID: 8145575844787902597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base091
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5db8d77740e5d70800000000000000
+      internalID: 9033662813805729277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base092
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d5d40223fecd450800000000000000
+      internalID: 6115025392631635224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base093
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cfa17f085c281b0800000000000000
+      internalID: -5655741024331695042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base094
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9fedcb0ea21b6e0800000000000000
+      internalID: -1823629229378569729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base095
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39707cf7c939ae290800000000000000
+      internalID: -7860307899253848173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base096
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e825ac0e17209b4d0800000000000000
+      internalID: -3118458578851442034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base097
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a684d5f92e3c050800000000000000
+      internalID: 5819744317585517057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base098
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb86d0e40709d810800000000000000
+      internalID: 1790470044389903310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base099
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d54babfd0f193fa0800000000000000
+      internalID: -5820586898482313776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base100
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2a8705e2f45b2b0800000000000000
+      internalID: -5569458303836577086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base101
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 705
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f17c0a5277a85b0800000000000000
+      internalID: -5365345002563625101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 641
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079c498be0d4b2ac0800000000000000
+      internalID: -3878921928427910800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base103
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 641
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e148b41db18af98a0800000000000000
+      internalID: -6296128916611693538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base104
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 641
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4dd6d4525381f80800000000000000
+      internalID: -8135694292515695402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base105
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 641
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c413348211e02c0800000000000000
+      internalID: -4463611316053914578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base106
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 641
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2f3f6ce7d7e6740800000000000000
+      internalID: 5147189407588283064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base107
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 641
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07bc4c58703e0160800000000000000
+      internalID: 6993580564855699214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base108
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 641
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500c9c4d6084c21a0800000000000000
+      internalID: -6833007340450889723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base109
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 641
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c538da574ad9f10800000000000000
+      internalID: 2278157811848535041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base110
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 641
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002ac20b7cdaee1f0800000000000000
+      internalID: -1013681792945970688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base111
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 641
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64399b125c2cec520800000000000000
+      internalID: 2724328976535884614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base112
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 641
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad64d3ff3cc294e0800000000000000
+      internalID: -1976292711416435295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base113
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 641
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a79e536d46fe040800000000000000
+      internalID: 4679069409051507217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base114
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 641
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79da37c90c39edb0800000000000000
+      internalID: -4762209118272693894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base115
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 641
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbc474c37b3d2f30800000000000000
+      internalID: 4552360166744705996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base116
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 641
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0b039aa65e49710800000000000000
+      internalID: 1699235205693354160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base117
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 641
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba5ec47a34649340800000000000000
+      internalID: 4869627299324910262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base118
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 641
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e71221fdf532410800000000000000
+      internalID: 1451108916629962341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base119
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 577
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888da313617b95810800000000000000
+      internalID: 1754634835780622472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base120
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 577
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99c09b1d928cb740800000000000000
+      internalID: 5169150083598436765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base121
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 577
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f8f96c718bbf3b0800000000000000
+      internalID: -5477582109509972174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base122
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 577
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab00137711813880800000000000000
+      internalID: -8632977072977867861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base123
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 577
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae6e1cf4d54b0d50800000000000000
+      internalID: 6704529251336351405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base124
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 577
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c4742f79ba84130800000000000000
+      internalID: 3551276975274806383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base125
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 577
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af39c836da4af7d0800000000000000
+      internalID: -2883910327441211484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base126
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 577
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadff6b7aa476ec20800000000000000
+      internalID: 3235401657876479402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base127
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 577
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfd3578f0eedf3f0800000000000000
+      internalID: -865273802922926147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base128
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 577
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6973fb9c1068353b0800000000000000
+      internalID: -5524924975615625322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base129
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 577
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ca4740bf6721870800000000000000
+      internalID: 8652108654615768088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base130
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 577
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d26122122236b090800000000000000
+      internalID: -8019166964572134702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base131
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 577
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9f35828796516f0800000000000000
+      internalID: -714549001074771518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base132
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 577
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590b26c181cca2660800000000000000
+      internalID: 7361920944818008213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base133
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 577
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6122dc062d721df0800000000000000
+      internalID: -210968630155665045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base134
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 577
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45df754a73e317890800000000000000
+      internalID: -7462114698874847916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base135
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 577
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1843bb54ed0db3ef0800000000000000
+      internalID: -127278511378713471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base136
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac235a983c0b301f0800000000000000
+      internalID: -1079825131764370742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base137
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d38f0dc06023e9e0800000000000000
+      internalID: -1593394243029728295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base138
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31447259ec539e60800000000000000
+      internalID: 7967814322929025339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base139
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbe124d7b4b753a0800000000000000
+      internalID: -6676669220922463277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base140
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dcd9e3c125cd750800000000000000
+      internalID: 6331025457439165706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base141
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73ba74d25e5c24d0800000000000000
+      internalID: -3158045528848419972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base142
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecd378e7733888f0800000000000000
+      internalID: -538123565376742170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base143
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9f52f380793b7c0800000000000000
+      internalID: -4056732777655699040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base144
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b9a7d4264e85b40800000000000000
+      internalID: 5429340461652941688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base145
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b801678d8a3b360800000000000000
+      internalID: 7184271478233271057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base146
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9277f3486b91c8780800000000000000
+      internalID: -8679534110156294359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base147
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7e08c3c0f954b40800000000000000
+      internalID: 5423916201141135265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base148
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a75a78da0fa7e70800000000000000
+      internalID: 9113861424033397338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base149
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cf1e8fa051858b0800000000000000
+      internalID: -5163353835910857692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base150
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7df542bfc05f970800000000000000
+      internalID: 8787944520669976544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base151
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a2a73b9c77309a0800000000000000
+      internalID: -6268034548186338734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base152
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 513
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4194186091235a0800000000000000
+      internalID: -6543139792886360851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base153
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96c1c5c093e8f990800000000000000
+      internalID: -7351876180749728101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base154
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c640c715d1bcfd0800000000000000
+      internalID: -2320728947169137660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base155
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c70c50925048c3e0800000000000000
+      internalID: -2033304508404332599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base156
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d7dd753c0bac030800000000000000
+      internalID: 3515816812155338001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base157
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3060b336475bc150800000000000000
+      internalID: 5893900496370950203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base158
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc957db72911add20800000000000000
+      internalID: 3303972597470288333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base159
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bd3dd095ec9f0f0800000000000000
+      internalID: -1082607353526494406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base160
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8afe252e331ae80800000000000000
+      internalID: -8169191201926305592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base161
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c581271b65d6e140800000000000000
+      internalID: 4748717513035056583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base162
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d98106aa6806a2c0800000000000000
+      internalID: -4420836730072888878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base163
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dafc740ef8fc840800000000000000
+      internalID: 5246570284350156047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base164
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb8c5f0d20752190800000000000000
+      internalID: -7987855025238144065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base165
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c41cbae4f6b2f80800000000000000
+      internalID: -8130282318607594375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base166
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd464dab8aa6c990800000000000000
+      internalID: -7366012623633625651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base167
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081ab2213be4d87d0800000000000000
+      internalID: -2914586852827881088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base168
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8931c01d58227c0800000000000000
+      internalID: -4097565578056460101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base169
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 449
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1c64907dfd32610800000000000000
+      internalID: 1595364807685882328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base170
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc07a6c986acb990800000000000000
+      internalID: -7368831779611407172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base171
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935a40b1237827430800000000000000
+      internalID: 3779231686588671289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base172
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb6b69e794adffe0800000000000000
+      internalID: -1153584957173830681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base173
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4b9db7c0cde2890800000000000000
+      internalID: -7480799984840231770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base174
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109a926a0a4307190800000000000000
+      internalID: -7966809876231247615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base175
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d96c40996eaa6000800000000000000
+      internalID: 30028115947055569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base176
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e5c854075d8c110800000000000000
+      internalID: 1281508772166786669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base177
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedee243121c46900800000000000000
+      internalID: 676878192365989358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base178
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bb5aee9343863d0800000000000000
+      internalID: -3213260910707229814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base179
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c92cf5e22984a00800000000000000
+      internalID: 741002866575187005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base180
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeddfa3d9d9082120800000000000000
+      internalID: 2389170433484119530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base181
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8dd6233f34d6af0800000000000000
+      internalID: -401590079963932460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base182
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa85fcc7915cef670800000000000000
+      internalID: 8574507453818820778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base183
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f0f30db44a2b2f0800000000000000
+      internalID: -958523125153198279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base184
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0462bd0399dd1c980800000000000000
+      internalID: -8520285369988864448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base185
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d6b5c4c31c30870800000000000000
+      internalID: 8647968174204742996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base186
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 385
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d26413e8528acd10800000000000000
+      internalID: 2146671490673959640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base187
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c947a0652663ed110800000000000000
+      internalID: 1287526339452761244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base188
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3611bdc90a42dc6d0800000000000000
+      internalID: -2968676307122319005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base189
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115cff280d0252ac0800000000000000
+      internalID: -3880659423986727663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base190
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6358e0e31f7483950800000000000000
+      internalID: 6428967569525212470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base191
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b492236791ccb20800000000000000
+      internalID: 3155925434318277481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base192
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61062e2b9317c210800000000000000
+      internalID: 1353071770263224683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base193
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53788fbece2aa4f0800000000000000
+      internalID: -816788916902792354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base194
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9170e23ff24131a80800000000000000
+      internalID: -8497425875742095591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base195
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdff7b8b5d507090800000000000000
+      internalID: -8038822687092507150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base196
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae4783b4535f4940800000000000000
+      internalID: 5282532511183228590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base197
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23459fae8eee0970800000000000000
+      internalID: 8723171824861791020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base198
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc28f98fdc5f844f0800000000000000
+      internalID: -844154665143663923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base199
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2a708313bc6ae80800000000000000
+      internalID: -8167617461935955229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base200
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7ce982d27111dc0800000000000000
+      internalID: -3670126738607781910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base201
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc3f675061513530800000000000000
+      internalID: 3832934232094620879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base202
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44403237cd7330580800000000000000
+      internalID: -8862178221770996668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base203
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 321
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d040719e92acf0480800000000000000
+      internalID: -8930697254699334643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base204
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4569c522f9bb93a80800000000000000
+      internalID: -8486545730652301740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base205
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cdf3c63f786ee70800000000000000
+      internalID: 9144145572985298026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base206
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbadc94321d59f10800000000000000
+      internalID: 2275955136197929943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base207
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff229585f5a6b730800000000000000
+      internalID: 4014578591773896702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base208
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1964b81f528c113c0800000000000000
+      internalID: -4390508096417741167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base209
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1fad2b10ab77640800000000000000
+      internalID: 5077731621341950373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base210
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb16467c4ed6dd4b0800000000000000
+      internalID: -5414050347664252481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base211
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874592ff731a25180800000000000000
+      internalID: -9128056232850402184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base212
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ddf94a295759080800000000000000
+      internalID: -9181302992637272757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base213
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fe054b57d51e530800000000000000
+      internalID: 3882487113887838108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base214
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9382d409c527850800000000000000
+      internalID: 6373258197522201037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base215
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6f0eeb2d84fabf0800000000000000
+      internalID: -310949779282528519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base216
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70060523703ebee70800000000000000
+      internalID: 9145653088354328583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base217
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe9b933ddf29c0e0800000000000000
+      internalID: -2249213911794737422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base218
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efca340aedb54050800000000000000
+      internalID: 5784238109218230240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base219
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33498c7987e211c50800000000000000
+      internalID: 6634134821570909235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base220
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb541d3738e3ea390800000000000000
+      internalID: -7805232369881758276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base221
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf6d64825ec216b0800000000000000
+      internalID: -5326968555421470785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base222
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bba315ea18bbff0800000000000000
+      internalID: -19279187705939103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base223
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd66a34cc76a4ff0800000000000000
+      internalID: -51114318755369517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base224
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97371b204828c4f40800000000000000
+      internalID: 5714085530718794617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base225
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9bc9120fc01c710800000000000000
+      internalID: 1711663558873102797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base226
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e36fa27502f38d0800000000000000
+      internalID: -2864535279229321693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base227
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768d3019749238480800000000000000
+      internalID: -8898223051401602969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base228
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258a38cd74c9186a0800000000000000
+      internalID: -6448701358961612718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base229
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28c292f93d3c1000800000000000000
+      internalID: 7948618440034348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base230
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f251ad97644a7f80800000000000000
+      internalID: -8108092967310241036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base231
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b44ad901c166f40800000000000000
+      internalID: 5721291234310638439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base232
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8fcac2ba7adfc90800000000000000
+      internalID: -7134361881054217995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base233
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85ffc871f9f22350800000000000000
+      internalID: 5990625269865510287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base234
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0253938dff796580800000000000000
+      internalID: -8833388467299593713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base235
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27933ee085d005510800000000000000
+      internalID: 1535742144791394674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base236
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108a04e33e757f760800000000000000
+      internalID: 7491553138667726849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base237
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 193
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a54e5e6acc6bea0800000000000000
+      internalID: -5857269248155166114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base238
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a066d5f69f807f080800000000000000
+      internalID: -9153837850198972918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base239
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba2fcf8a98adad70800000000000000
+      internalID: 9056079807503084209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base240
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920c04ca5c5e11490800000000000000
+      internalID: -7777182444330893271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base241
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a621ed3ce10c2960800000000000000
+      internalID: 7578434387119777440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base242
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd0c89e684dfe2f0800000000000000
+      internalID: -941300121188168204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base243
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f723cbd8f5440960800000000000000
+      internalID: 7567250209030481905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base244
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43f6d426ac60a780800000000000000
+      internalID: -8673813421477137586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base245
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1185f8e920aef680800000000000000
+      internalID: -8719355726680194787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base246
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bce16133bb24fee0800000000000000
+      internalID: -1228308749737661262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base247
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f79f084c8d1c26e0800000000000000
+      internalID: -1861080057669249032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base248
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980c98872cbda6f80800000000000000
+      internalID: -8112430150462095223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base249
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dbd4c17e6cd3e50800000000000000
+      internalID: 6790802509059177805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base250
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119ad43297bddc3b0800000000000000
+      internalID: -5490491057364948719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base251
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8428a4aec42ef8ef0800000000000000
+      internalID: -103615446430088632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base252
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37412f8e1029f9fd0800000000000000
+      internalID: -2332985545053825933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base253
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9320002ed7c0f53f0800000000000000
+      internalID: -909994864903454151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base254
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 129
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533f28bcf5cb65c90800000000000000
+      internalID: -7181345436173405387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base255
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6412a9a2e9ce9f0800000000000000
+      internalID: -437801157950093636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base256
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6e83f5b38a36c10800000000000000
+      internalID: 2045663628710438635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base257
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77e07a0bf566d770800000000000000
+      internalID: 8635201464415872891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base258
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187503d0d94589cd0800000000000000
+      internalID: -2551196155397515391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base259
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43225cee640459380800000000000000
+      internalID: -8965188809813319116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base260
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8054d8762c4997920800000000000000
+      internalID: 2988583390418912520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base261
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8084eaf4d13f9c20800000000000000
+      internalID: 3215343449777930381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base262
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adbab981596984b0800000000000000
+      internalID: -5437699276149178972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base263
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237d7e92fad0abf10800000000000000
+      internalID: 2286154806817445682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base264
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c175a39e8f9fc8e0800000000000000
+      internalID: -1670941502019898936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base265
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9139d94931aa460800000000000000
+      internalID: 7253631678853355984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base266
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8f18cf91d732eb0800000000000000
+      internalID: -4745812031754340171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base267
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf7d572340ec50e0800000000000000
+      internalID: -2279700732328443962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base268
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27472c78d66a9a850800000000000000
+      internalID: 6388820535761073266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base269
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7c5d81462421320800000000000000
+      internalID: 2527155338589095867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base270
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9593caea9b79d9970800000000000000
+      internalID: 8763327273688119641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base271
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 65
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19daffd2fa1b9d9d0800000000000000
+      internalID: -2748970731583853167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base272
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba24ae8c8648c1170800000000000000
+      internalID: 8150535011216016043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base273
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5138465a414991780800000000000000
+      internalID: -8711769187776429291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base274
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b926fb36260e7d0800000000000000
+      internalID: -2891202780219663565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Martial art base275
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e1ca4cc53c4d1a0800000000000000
+      internalID: -6785583935336473036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Martial art base213: 3882487113887838108
+      Martial art base265: 7253631678853355984
+      Martial art base116: 1699235205693354160
+      Martial art base173: -7480799984840231770
+      Martial art base093: -5655741024331695042
+      Martial art base243: 7567250209030481905
+      Martial art base110: -1013681792945970688
+      Martial art base218: 5784238109218230240
+      Martial art base038: -4981741599663626080
+      Martial art base184: -8520285369988864448
+      Martial art base121: -5477582109509972174
+      Martial art base266: -4745812031754340171
+      Martial art base009: 7618758819212253292
+      Martial art base017: -7545158508010006772
+      Martial art base059: -3335925675239626589
+      Martial art base164: -7987855025238144065
+      Martial art base049: -525514779107539407
+      Martial art base160: -8169191201926305592
+      Martial art base221: -5326968555421470785
+      Martial art base249: 6790802509059177805
+      Martial art base258: -2551196155397515391
+      Martial art base019: -425095019261749592
+      Martial art base180: 2389170433484119530
+      Martial art base166: -7366012623633625651
+      Martial art base241: 7578434387119777440
+      Martial art base027: 5241789801322419596
+      Martial art base063: -7396392842800516375
+      Martial art base037: 6218727496256848013
+      Martial art base113: 4679069409051507217
+      Martial art base252: -2332985545053825933
+      Martial art base069: 1819277125766054786
+      Martial art base215: -310949779282528519
+      Martial art base097: 5819744317585517057
+      Martial art base189: -3880659423986727663
+      Martial art base088: 5845149473616738619
+      Martial art base274: -2891202780219663565
+      Martial art base090: 8145575844787902597
+      Martial art base098: 1790470044389903310
+      Martial art base201: 3832934232094620879
+      Martial art base264: -1670941502019898936
+      Martial art base068: 614502848763665966
+      Martial art base204: -8486545730652301740
+      Martial art base107: 6993580564855699214
+      Martial art base167: -2914586852827881088
+      Martial art base047: -5756668218186819357
+      Martial art base029: 8023788305612543197
+      Martial art base042: 2391096441939641048
+      Martial art base154: -2320728947169137660
+      Martial art base202: -8862178221770996668
+      Martial art base060: 2078513036020373100
+      Martial art base251: -103615446430088632
+      Martial art base131: -714549001074771518
+      Martial art base100: -5569458303836577086
+      Martial art base004: 6761494652670392675
+      Martial art base119: 1754634835780622472
+      Martial art base136: -1079825131764370742
+      Martial art base271: -2748970731583853167
+      Martial art base132: 7361920944818008213
+      Martial art base146: -8679534110156294359
+      Martial art base083: 4454294541746633308
+      Martial art base195: -8038822687092507150
+      Martial art base056: -8409313530209142593
+      Martial art base006: -1054396051097862311
+      Martial art base230: -8108092967310241036
+      Martial art base024: -6495402053340962836
+      Martial art base053: 8948284636623402784
+      Martial art base196: 5282532511183228590
+      Martial art base225: 1711663558873102797
+      Martial art base144: 5429340461652941688
+      Martial art base231: 5721291234310638439
+      Martial art base259: -8965188809813319116
+      Martial art base065: -5292691331315782604
+      Martial art base008: 1724162569875125867
+      Martial art base157: 5893900496370950203
+      Martial art base078: 1183001014200939149
+      Martial art base186: 2146671490673959640
+      Martial art base181: -401590079963932460
+      Martial art base194: -8497425875742095591
+      Martial art base050: 2099357686768778739
+      Martial art base138: 7967814322929025339
+      Martial art base114: -4762209118272693894
+      Martial art base205: 9144145572985298026
+      Martial art base176: 1281508772166786669
+      Martial art base002: 9168310541246245068
+      Martial art base192: 1353071770263224683
+      Martial art base275: -6785583935336473036
+      Martial art base197: 8723171824861791020
+      Martial art base182: 8574507453818820778
+      Martial art base099: -5820586898482313776
+      Martial art base226: -2864535279229321693
+      Martial art base102: -3878921928427910800
+      Martial art base255: -437801157950093636
+      Martial art base016: -7987007966851228426
+      Martial art base052: -2555176273881435181
+      Martial art base105: -4463611316053914578
+      Martial art base005: -2837593156927919778
+      Martial art base224: 5714085530718794617
+      Martial art base003: -1461766982437957159
+      Martial art base067: 2376769099851605877
+      Martial art base007: -2132234688468547668
+      Martial art base140: 6331025457439165706
+      Martial art base233: 5990625269865510287
+      Martial art base048: 130137098952145803
+      Martial art base011: 1218002663191505786
+      Martial art base244: -8673813421477137586
+      Martial art base112: -1976292711416435295
+      Martial art base188: -2968676307122319005
+      Martial art base032: 1184900831424909466
+      Martial art base162: -4420836730072888878
+      Martial art base269: 2527155338589095867
+      Martial art base077: 7552863901246097173
+      Martial art base169: 1595364807685882328
+      Martial art base209: 5077731621341950373
+      Martial art base149: -5163353835910857692
+      Martial art base055: -6439323817134453563
+      Martial art base199: -8167617461935955229
+      Martial art base257: 8635201464415872891
+      Martial art base227: -8898223051401602969
+      Martial art base212: -9181302992637272757
+      Martial art base236: 7491553138667726849
+      Martial art base273: -8711769187776429291
+      Martial art base030: -6965593774719734892
+      Martial art base018: -7828225133467494885
+      Martial art base135: -127278511378713471
+      Martial art base000: 3189987784615315146
+      Martial art base214: 6373258197522201037
+      Martial art base091: 9033662813805729277
+      Martial art base187: 1287526339452761244
+      Martial art base111: 2724328976535884614
+      Martial art base267: -2279700732328443962
+      Martial art base190: 6428967569525212470
+      Martial art base216: 9145653088354328583
+      Martial art base232: -7134361881054217995
+      Martial art base073: 6203605975746084721
+      Martial art base115: 4552360166744705996
+      Martial art base168: -4097565578056460101
+      Martial art base061: 2032078094290520848
+      Martial art base247: -1861080057669249032
+      Martial art base089: 5506798178226588476
+      Martial art base117: 4869627299324910262
+      Martial art base079: -3936154978616944242
+      Martial art base161: 4748717513035056583
+      Martial art base128: -5524924975615625322
+      Martial art base198: -844154665143663923
+      Martial art base263: 2286154806817445682
+      Martial art base153: -7351876180749728101
+      Martial art base051: -2264006664879858187
+      Martial art base064: -2741284626953628117
+      Martial art base242: -941300121188168204
+      Martial art base254: -7181345436173405387
+      Martial art base220: -7805232369881758276
+      Martial art base072: -5631282203741559144
+      Martial art base031: 752650480560314944
+      Martial art base175: 30028115947055569
+      Martial art base036: 9147676299475821400
+      Martial art base174: -7966809876231247615
+      Martial art base245: -8719355726680194787
+      Martial art base272: 8150535011216016043
+      Martial art base095: -7860307899253848173
+      Martial art base151: -6268034548186338734
+      Martial art base239: 9056079807503084209
+      Martial art base250: -5490491057364948719
+      Martial art base137: -1593394243029728295
+      Martial art base177: 676878192365989358
+      Martial art base142: -538123565376742170
+      Martial art base183: -958523125153198279
+      Martial art base261: 3215343449777930381
+      Martial art base010: -2504204515347251530
+      Martial art base035: 4918866178713963450
+      Martial art base101: -5365345002563625101
+      Martial art base062: 6677654595635321331
+      Martial art base071: -4462898148291338448
+      Martial art base256: 2045663628710438635
+      Martial art base066: 8604833231696899439
+      Martial art base028: 5732207760480401267
+      Martial art base021: 2982899262026125048
+      Martial art base080: 794353901625615676
+      Martial art base237: -5857269248155166114
+      Martial art base092: 6115025392631635224
+      Martial art base210: -5414050347664252481
+      Martial art base134: -7462114698874847916
+      Martial art base235: 1535742144791394674
+      Martial art base120: 5169150083598436765
+      Martial art base045: -7875028678989846957
+      Martial art base172: -1153584957173830681
+      Martial art base155: -2033304508404332599
+      Martial art base207: 4014578591773896702
+      Martial art base270: 8763327273688119641
+      Martial art base150: 8787944520669976544
+      Martial art base094: -1823629229378569729
+      Martial art base148: 9113861424033397338
+      Martial art base240: -7777182444330893271
+      Martial art base013: 3035352698928749828
+      Martial art base208: -4390508096417741167
+      Martial art base178: -3213260910707229814
+      Martial art base219: 6634134821570909235
+      Martial art base170: -7368831779611407172
+      Martial art base109: 2278157811848535041
+      Martial art base130: -8019166964572134702
+      Martial art base223: -51114318755369517
+      Martial art base139: -6676669220922463277
+      Martial art base040: 8472627658817235136
+      Martial art base127: -865273802922926147
+      Martial art base086: 943606382548773518
+      Martial art base074: 3504043407551037603
+      Martial art base020: -8843870814260975028
+      Martial art base084: -6882403061106946167
+      Martial art base217: -2249213911794737422
+      Martial art base015: 3552166747414039416
+      Martial art base133: -210968630155665045
+      Martial art base206: 2275955136197929943
+      Martial art base118: 1451108916629962341
+      Martial art base075: 603198174409967779
+      Martial art base165: -8130282318607594375
+      Martial art base143: -4056732777655699040
+      Martial art base156: 3515816812155338001
+      Martial art base163: 5246570284350156047
+      Martial art base246: -1228308749737661262
+      Martial art base159: -1082607353526494406
+      Martial art base193: -816788916902792354
+      Martial art base262: -5437699276149178972
+      Martial art base145: 7184271478233271057
+      Martial art base229: 7948618440034348
+      Martial art base253: -909994864903454151
+      Martial art base054: 462716200181659755
+      Martial art base104: -8135694292515695402
+      Martial art base152: -6543139792886360851
+      Martial art base123: 6704529251336351405
+      Martial art base238: -9153837850198972918
+      Martial art base124: 3551276975274806383
+      Martial art base126: 3235401657876479402
+      Martial art base203: -8930697254699334643
+      Martial art base012: 6662882086733765194
+      Martial art base141: -3158045528848419972
+      Martial art base082: -8988937595192345791
+      Martial art base081: -8244701128544529316
+      Martial art base106: 5147189407588283064
+      Martial art base022: -7148343306716205034
+      Martial art base023: -1700938830153385584
+      Martial art base108: -6833007340450889723
+      Martial art base087: 1281827000049223441
+      Martial art base147: 5423916201141135265
+      Martial art base033: 3245091957203965498
+      Martial art base043: 6207521338619307773
+      Martial art base171: 3779231686588671289
+      Martial art base211: -9128056232850402184
+      Martial art base158: 3303972597470288333
+      Martial art base260: 2988583390418912520
+      Martial art base046: -5672004284273208000
+      Martial art base057: -443177144537137227
+      Martial art base122: -8632977072977867861
+      Martial art base185: 8647968174204742996
+      Martial art base034: -7309347436338401719
+      Martial art base179: 741002866575187005
+      Martial art base085: -8983433735007219174
+      Martial art base191: 3155925434318277481
+      Martial art base096: -3118458578851442034
+      Martial art base129: 8652108654615768088
+      Martial art base248: -8112430150462095223
+      Martial art base058: -1420829559850479056
+      Martial art base026: -297237304599018997
+      Martial art base228: -6448701358961612718
+      Martial art base025: 8343175741113005604
+      Martial art base222: -19279187705939103
+      Martial art base076: 9095802532673058340
+      Martial art base234: -8833388467299593713
+      Martial art base200: -3670126738607781910
+      Martial art base014: -4564720585774109759
+      Martial art base044: 8305389879728727638
+      Martial art base039: -1760195521312966331
+      Martial art base070: 6936795164062947119
+      Martial art base041: 1331141116166579839
+      Martial art base103: -6296128916611693538
+      Martial art base001: 4650341704453339678
+      Martial art base268: 6388820535761073266
+      Martial art base125: -2883910327441211484
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

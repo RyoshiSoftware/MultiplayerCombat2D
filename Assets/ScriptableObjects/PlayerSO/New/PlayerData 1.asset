@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1fa6d6ee0d3e0e429fdfcb0a01f90dc, type: 3}
+  m_Name: PlayerData 1
+  m_EditorClassIdentifier: 
+  entityData: {fileID: 11400000, guid: cd77d9abc1004dc479792ce8bd2cc094, type: 2}
+  auraData: {fileID: 11400000, guid: b4e41270c6793a5499b12af3afaf892e, type: 2}
+  blockData: {fileID: 11400000, guid: 302cb6fca734242409d224bdb1e95ebe, type: 2}
+  chargeData: {fileID: 11400000, guid: 0a097f93c9b0b0942815282f4e9d738f, type: 2}
+  dashData: {fileID: 11400000, guid: 2be5a80d21d9fc94a8a6b1cf49504eb9, type: 2}
+  fallData: {fileID: 11400000, guid: fb155aae8c856264c872da668f392108, type: 2}
+  flyData: {fileID: 11400000, guid: 14385133e4e9dcc4ba02e1ce1e0ded6a, type: 2}
+  hitData: {fileID: 11400000, guid: 63d6f195d172caf448c69b0512a4c68b, type: 2}
+  idleData: {fileID: 11400000, guid: c22d67a58e68e964e883a2db2639a145, type: 2}
+  knockbackData: {fileID: 11400000, guid: 9457ec20bcd0df34e9b84d5cfc84fa85, type: 2}
+  meleeAttackState: {fileID: 11400000, guid: 24f4d96d5d800a14d850f1306eafb186, type: 2}
+  moveData: {fileID: 11400000, guid: 34a9fe8fb22d85d4584933758be83eba, type: 2}
+  rangeAttackState: {fileID: 11400000, guid: 27ea1f09f88ea65478aae76fa8ec67d3, type: 2}
+  stunData: {fileID: 11400000, guid: f878202bd11070d49bcc9bc75c98f36e, type: 2}
+  superFlightData: {fileID: 11400000, guid: bb27703f5460f9d418aeade7ce2752a1, type: 2}

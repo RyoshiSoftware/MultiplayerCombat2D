@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f41f9e5cab77e242ae5278d82c4b2d4, type: 3}
+  m_Name: D_MeleeAttackState 1
+  m_EditorClassIdentifier: 
+  isTesting: 1
+  key: 0
+  attackAnimBoolName:
+  - punch
+  - kick
+  attackPosition:
+  - {x: 0, y: 0.58}
+  - {x: 0, y: -1.56}
+  - {x: -0.9, y: -0.58}
+  - {x: 0.9, y: -0.58}
+  attackRadius: 0.5
+  baseAttackDamage: 5
+  damageFactorDictionary:
+    keys: 00000000
+    values:
+    - 1
+  finalAttackDamage: 25
+  attackBlockingGaugeDamage: 2
+  knockBackStrength: 2
+  changeStateTime: 1

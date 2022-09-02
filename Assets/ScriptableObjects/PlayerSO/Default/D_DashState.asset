@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb60817df7910b44cab2ed0748c426d7, type: 3}
+  m_Name: D_DashState
+  m_EditorClassIdentifier: 
+  dashVelocity: 80
+  dashCoolDown: 0.8
+  baseAttackDamage: 0
+  knockBackStrength: 50
+  toAttackMinValue: 5
+  attackBlockingGaugeDamage: 0
+  dashVFX: {fileID: 11400000, guid: 8bc858a25d1afc34d9c4bf87c7cac491, type: 2}
+  dashWindVFX: {fileID: 11400000, guid: b4af53a0cdccc4a4787f20e877639513, type: 2}

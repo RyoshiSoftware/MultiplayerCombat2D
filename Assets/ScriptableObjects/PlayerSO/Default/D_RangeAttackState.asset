@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6302252eb1f92c4c96b8d4bd6bc18c7, type: 3}
+  m_Name: D_RangeAttackState
+  m_EditorClassIdentifier: 
+  isTesting: 0
+  key: 324
+  attackSpawnData:
+    attackRadius: 0
+    upPosition: {x: 0, y: 0}
+    downPosition: {x: 0, y: -1.2}
+    leftPosition: {x: -0.6, y: -0.6}
+    rightPosition: {x: 0.6, y: -0.6}
+  damageData:
+    baseAttackDamage: 5
+    damageFactorDictionary:
+      keys: 01000000
+      values:
+      - 15
+    finalAttackDamage: 10
+    blockingGaugeDamage: 1
+    knockBackStrength: 0
+  fireRate: 0.3
+  stopTimeAfterFire: 0.2
+  attackBlockingGaugeDamage: 1
+  knockBackStrength: 0
+  projectileData:
+    prefab: {fileID: 8804249827082789660, guid: a4761a064ad1547449c4d2439d37b107, type: 3}
+    velocity: 750
+    liveTime: 1
+    attackDamageData:
+      baseAttackDamage: 0
+      damageFactorDictionary:
+        keys: 
+        values: []
+      finalAttackDamage: 0
+      blockingGaugeDamage: 0
+      knockBackStrength: 0
+    isHoming: 1
+    spreadRotation: 60
+    rotationMaxAngle: 150
+    rotationSpeed: 120
+  kiBlastVFX: {fileID: 11400000, guid: d2247c729318ec0488a76a5b55747695, type: 2}
+  explosionVFX: {fileID: 11400000, guid: 622f3428f9662d2479bdd1142df2dc89, type: 2}
+  doubleBigExplosionVFX: {fileID: 11400000, guid: 4377960e50b4da442aaefaaaec64103d, type: 2}
+  holeVFX: {fileID: 11400000, guid: 8a0d3c75922d1794ba27287396727ef9, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34f68b9ba2a74d74cbe3fcf4969fc61a, type: 3}
+  m_Name: D_FlyState 1
+  m_EditorClassIdentifier: 
+  flyAnimatorOverrideController: {fileID: 22100000, guid: af5be071dc3931642ac2a6c053142f7a, type: 2}
+  flySpeed: 5
+  maxFlyHeight: 4
+  hoverSpeed: 3
+  maxHoverHeight: 0.02

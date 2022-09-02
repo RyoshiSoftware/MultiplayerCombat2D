@@ -1,0 +1,34 @@
+using UnityEngine;
+
+public class #SCRIPTNAME# : State
+{
+    protected D_#SCRIPTNAME# d_#SCRIPTNAME#; 
+    public #SCRIPTNAME#(FiniteStateMachine stateMachine, Entity entity, string animBoolName, D_#SCRIPTNAME# d_#SCRIPTNAME#) : base(stateMachine, entity, animBoolName)
+    {
+        this.d_#SCRIPTNAME# = d_#SCRIPTNAME#;
+    }
+	
+    public override void Enter()
+    {
+        base.Enter();
+    }
+
+
+    public override void Exit()
+    {
+        base.Exit();
+    }
+
+
+    public override void LogicsUpdate()
+    {
+        base.LogicsUpdate();
+    }
+
+    public override void PhysicsUpdate()
+    {
+        base.PhysicsUpdate();
+    }
+    #NOTRIM#
+
+}

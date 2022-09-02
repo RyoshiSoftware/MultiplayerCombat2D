@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcad6b000ca53bd488d31f815a244dc3, type: 3}
+  m_Name: ChargeAttackSkill
+  m_EditorClassIdentifier: 
+  animId: -594456628
+  coolDownTime: 5
+  activeTime: 3
+  needTarget: 1
+  isEmergency: 0
+  needCharging: 1
+  isCharging: 0
+  isPlaying: 0
+  timePlaying: 2.8556037
+  isCoolDown: 1
+  coolDownTimeElapse: 5
+  chargeTime: 2
+  chargeTimeElapse: 0.51383543
+  maxActiveTime: 5
+  activeTimeElapse: 3.5138354
+  rotationMaxAngle: 90
+  rotationSpeed: 8
+  turningWaitTime: 0.25
+  chargeVelocity: 50
+  flyData: {fileID: 11400000, guid: 3274b10742f9aae449865481840f283e, type: 2}
+  minAttackData:
+    baseAttackDamage: 10
+    damageFactorDictionary:
+      keys: 
+      values: []
+    finalAttackDamage: 0
+    blockingGaugeDamage: 3
+    knockBackStrength: 1800
+  maxAttackData:
+    baseAttackDamage: 20
+    damageFactorDictionary:
+      keys: 
+      values: []
+    finalAttackDamage: 0
+    blockingGaugeDamage: 5
+    knockBackStrength: 1800
+  attackDataHolder:
+    baseAttackDamage: 0
+    damageFactorDictionary:
+      keys: 
+      values: []
+    finalAttackDamage: 0
+    blockingGaugeDamage: 0
+    knockBackStrength: 1800
+  attackBoxSize: {x: 1.3, y: 2.5}
